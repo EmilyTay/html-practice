@@ -1,13 +1,22 @@
-# html-practice
-A repo to practise html
+
 <!DOCTYPE html>
+
 <html>
+
 <head>
-<title style="border:2px solid Violet;">Shopping List</title>
+
+<title>Shopping List</title>
+
+   <h1 style="color:#DAF7A6";>Shopping List</h1>
+
 <head/>
+
 <body>
-<p style="color:MediumViolet;">Pizza
+
+<p style="color:#900C3F;">Pizza
    Chips
    Cake</p>
+
 </body>
+
 </html>
