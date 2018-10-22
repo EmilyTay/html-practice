@@ -3,10 +3,10 @@ A repo to practise html
 <!DOCTYPE html>
 <html>
 <head>
-<title>Shopping List</title>
+<title style="border:2px solid Violet;">Shopping List</title>
 <head/>
 <body>
-<p>Pizza
+<p style="color:MediumViolet;">Pizza
    Chips
    Cake</p>
 </body>
