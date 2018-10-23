@@ -1,3 +1,11 @@
 body {
-  color: pink;
+  color: blue;
+}
+
+.site-container {
+  padding: 30px;
+}
+
+.title {
+  text-align: center;
 }
